@@ -1,0 +1,3 @@
+[submodule "scad/bitbeam"]
+	path = scad/bitbeam
+	url = https://github.com/hugs/bitbeam.git
