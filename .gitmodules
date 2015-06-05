@@ -1,3 +1,6 @@
 [submodule "scad/bitbeam"]
 	path = scad/bitbeam
 	url = https://github.com/hugs/bitbeam.git
+[submodule "scad/libraries/obiscad"]
+	path = scad/libraries/obiscad
+	url = git@github.com:Obijuan/obiscad.git
